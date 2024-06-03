@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|c:\\users\\vladc\\documents\\an 3 cti\\paoo\\proiect_paoo\\travelagency\\travelagency\\contracte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\contracte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|c:\\users\\vladc\\documents\\an 3 cti\\paoo\\proiect_paoo\\travelagency\\travelagency\\contracte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\contracte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\travelagency\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\travelagency\\angajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\angajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\travelagency\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\travelagency\\angajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\angajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|c:\\users\\vladc\\documents\\an 3 cti\\paoo\\proiect_paoo\\travelagency\\travelagency\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D49539-1E99-41CA-8F8F-89DB60988C01}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contracte.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Contracte.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Contracte.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Contracte.cs",
+              "RelativeToolTip": "TravelAgency\\Contracte.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contracte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Contracte.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Contracte.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Contracte.cs [Design]",
+              "RelativeToolTip": "TravelAgency\\Contracte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:36.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Log.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Log.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Log.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Log.cs [Design]",
+              "RelativeToolTip": "TravelAgency\\Log.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:36:45.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clienti.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Clienti.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Clienti.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Clienti.cs",
+              "RelativeToolTip": "TravelAgency\\Clienti.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:07:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clienti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Clienti.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Clienti.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Clienti.cs [Design]",
+              "RelativeToolTip": "TravelAgency\\Clienti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:01:40.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Angajati.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Angajati.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Angajati.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Angajati.cs [Design]",
+              "RelativeToolTip": "TravelAgency\\Angajati.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:30:47.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Angajati.cs",
+              "DocumentMoniker": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Angajati.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Angajati.cs",
+              "ToolTip": "C:\\Users\\vladc\\Documents\\An 3 CTI\\PAOO\\Proiect_PAOO\\TravelAgency\\TravelAgency\\Angajati.cs",
+              "RelativeToolTip": "TravelAgency\\Angajati.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:31:22.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
